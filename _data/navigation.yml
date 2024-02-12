@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "Journal Publications"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Conferences & Talks"
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Talks"
     url: /talks/    
+        
+  - title: "Societal Impact"
+    url: /impact/
 
-#   - title: "Teaching"
-#     url: /teaching/    
+  - title: "Inequality Index"
+    url: /ippi_index/
     
-#   - title: "Portfolio"
-#     url: /portfolio/
-#         
-#   - title: "Blog Posts"
-#     url: /year-archive/
-    
+  - title: "Resources"
+    url: /resources/
+
   - title: "CV"
     url: /cv/
-    
-#   - title: "Guide"
-#     url: /markdown/
+
+
