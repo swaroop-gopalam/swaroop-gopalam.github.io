@@ -13,7 +13,7 @@ name                     : &name "Swaroop Gopalam"
 description              : &description "Welcome to my personal web-site"
 url                      : https://swaroop-gopalam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "swaroop-gopalam.github.io"
+repository               : "swaroop-gopalam/swaroop-gopalam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
