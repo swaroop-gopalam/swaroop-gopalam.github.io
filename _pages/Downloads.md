@@ -1,6 +1,6 @@
 ---
-permalink: /downloads/
 title: "Preprints & Theses"
+permalink: /downloads/
 author_profile: true
 ---
 
