@@ -1,27 +1,27 @@
 ---
 permalink: /
-title: "Welcome!"
-<!-- 
-excerpt: "About me"
- -->
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-----
-I am an early career researcher working as a postdoctoral research fellow at Macquarie University, Sydney, Australia. My current research focus is on 1) Delay-Doppler domain waveform design for 6G, 2) LEO Satellite communications and 3) Optimization of mmWave cellular networks. I have previously worked on various wireless modelling and optimization problems including 1) UAV channel modelling, UAV communication optimization, 2) Resource allocation and control algorithms for future 5G wireless networks, including mmWave networks, Hetergeneous Networks, ad-hoc networks and Aerial Networks. My PhD thesis, under the supervision of Prof. Stephen Hanly and Prof. Philip Whiting, was focused on application of stochastic processes for modelling wireless communication systems, and using convex optimization and queuing theory to develop low-complexity control and resource allocation algorithms.
+Welcome to my personal page!   
 
-Biography
----
-I received the B.Tech. degree in Electrical engineering from the Indian Institute of Technology (IIT) Bombay in 2014. I received the M.Res. and Ph.D. degrees in Engineering from Macquarie University, Sydney, Australia, in 2017 and 2021 respectively. I have been working as a Research Fellow (in my current role) in the School of Engineering at Macquarie University since 2021. 
+I'm Vardan Barsegyan, I conduct quantitative social science research in political inequality, social inequality, and mobility, including voluntary and forced migration. I analyze survey and administrative data in R, STATA, Python, and Mplus.   
+
+I'm currently working as a [scientific researcher](https://www.wodc.nl/over-het-wodc/organisatie/medewerkers/vardan-barsegyan) at the Research and Data Centre (in Dutch: Het Wetenschappelijk Onderzoek- en Datacentrum - WODC) - the knowledge centre of the Dutch Ministry of Justice and Security. In 2019-2023, I worked as a postdoctoral researcher at the [department of sociology at Utrecht University](https://www.uu.nl/en/organisation/sociology) (Utrecht, the Netherlands). 
+
+I have been living in the Netherlands since 2016, studied and grew up in Russia, and I was born in Armenia in 1990. 
 
 
-Recent Updates
----
-* **08 Feb 2024:** Our new paper titled "Zak-OTFS Implementation via Time and Frequency Windowing" has been accepted for publication in IEEE Transactions on Communications.
-* **18 Jan 2024:** Our paper titled "Short Message Success Rate for LEO Satellite IoT Data Harvesting" has been accepted for presentation at the 2024 IEEE International Conference on Communications ([ICC 2024](https://icc2024.ieee-icc.org)) being held in Denver, USA.
-* **22 Jun 2023:** I won the best ECR presentation prize at the 2023 Australian Communication Theory Workshop ([AusCTW 2023](https://sites.google.com/view/ausctw-2023/)) held in Darwin, Australia. I was an invited speaker and presented on [my recent paper](https://swaroop-gopalam.github.io/publications/2023-12-01-Distributed_Resource_Allocation_and_Flow_Control/).
-* **23 Jan 2023:** I had been selected for the [2023 AIRS Fellowship](https://arch-india.org/australia-india-research-students-fellowship-program) program funded by the Australia-India Research institute. The fellowship has funded my research visit to IIT Bombay, where I worked with Prof. Sibiraj Pillai.
+My research interests 
+======
+I study how social inequality translates into political inequality. More particularly, how political participation of people is shaped by their social origin, income, education, and occupational status.  
+
+I also study how educational outcomes of students are shaped by their cognitive ability, social (family) origin, and their interplay. For example, I study differences in educational outcomes of first-generation students and continuous-generation students.  
+
+Finally, voluntary and forced migration is another component of my research interests. I study the causes and consequences of (in)voluntary migration both for the origin and for the host societies.  
+
+I mostly use survey and administrative data, including twin-data. I apply a wide range of quantitative methods including structural equation modeling, latent variable analysis, longitudinal, panel, and multilevel analysis, and behavioral genetic methods.
