@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome!"
 <!-- 
 excerpt: "About me"
  -->
