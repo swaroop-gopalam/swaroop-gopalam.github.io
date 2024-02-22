@@ -18,7 +18,7 @@ I received the B.Tech. degree in Electrical engineering from the Indian Institut
 
 Recent Updates
 ---
-* **21 Feb 2024:** Technical talk on Zak-OTFS Implementation at the Information Theory and Applications (ITA) Workshop 2024. Slides are available here.
+* **21 Feb 2024:** Technical talk on Zak-OTFS Implementation at the Information Theory and Applications Workshop [(ITA 2024)](https://ita.ucsd.edu/workshop/). Slides are available [here](https://swaroop-gopalam.github.io/talks/ITA2024).
 * **08 Feb 2024:** Our new paper titled "Zak-OTFS Implementation via Time and Frequency Windowing" has been accepted for publication in IEEE Transactions on Communications. Preprint version is available [here](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23790390.v1). Early access version is available [here](https://ieeexplore.ieee.org/document/10436682).
 * **18 Jan 2024:** Our paper titled "Short Message Success Rate for LEO Satellite IoT Data Harvesting" has been accepted for presentation at the 2024 IEEE International Conference on Communications ([ICC 2024](https://icc2024.ieee-icc.org)) being held in Denver, USA.
 * **22 Jun 2023:** I won the best ECR presentation prize at the 2023 Australian Communication Theory Workshop ([AusCTW 2023](https://sites.google.com/view/ausctw-2023/)) held in Darwin, Australia. I was an invited speaker and presented on [my recent paper](https://swaroop-gopalam.github.io/publications/2023-12-01-Distributed_Resource_Allocation_and_Flow_Control/).
