@@ -10,6 +10,5 @@ citation: 'S. Gopalam, S. V. Hanly and P. Whiting,  &quot;Distributed User Assoc
 ---
 **Abstract:** In this article, we consider joint optimization of user association and resource allocation in three tier HetNets. We formulate the objective of minimizing the resources required to clear a given set of files, as a linear program. We show that the optimal user association is determined by a rate-biasing rule, where a bias value is associated with each BS. We show that each rate-bias value crucially only takes values from a finite set which we characterize. We present a complete analytical solution along with new structural results. Using these results, we present efficient distributed algorithms for optimal control of three tier HetNets. The method involves a 1D search for a resource variable at the macro-level, and 2D search at the pico-level for a resource variable and a bias value. We apply our results to a variety of hierarchical network examples.
 
-<!-- [Download paper here](https://swaroop-gopalam.github.io/files/TWC3017519.pdf) -->
-
+[Download paper here](https://swaroop-gopalam.github.io/files/TWC3017519.pdf)
 <!-- Recommended citation: 'S. Gopalam, S. V. Hanly and P. Whiting,  &quot;Distributed Resource Allocation and Flow Control Algorithms for mmWave IAB Networks,&quot; in <i>IEEE/ACM Transactions on Networking</i>, vol. 31, no. 6, pp. 3175-3190, Dec. 2023.' -->
