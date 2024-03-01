@@ -6,7 +6,7 @@ excerpt: 'This paper presents an efficient practical Zak-OTFS modulation impleme
 date: 2024-03-01
 venue: 'IEEE Transactions on Communications'
 paperurl: 'https://ieeexplore.ieee.org/document/10436682'
-citation: 'S. Gopalam, I. B. Collings, S. V. Hanly, H. Inaltekin, S. R. B. Pillai and P. Whiting, &quot;Zak-OTFS Implementation via Time and Frequency Windowing,&quot; in <i>IEEE Transactions on Communications<i>, doi: 10.1109/TCOMM.2024.3366403.' 
+citation: 'S. Gopalam, I. B. Collings, S. V. Hanly, H. Inaltekin, S. R. B. Pillai and P. Whiting, &quot;Zak-OTFS Implementation via Time and Frequency Windowing,&quot; in <i>IEEE Transactions on Communications<i>.' 
 ---
 
 [Download preprint](https://swaroop-gopalam.github.io/files/TCOMM3366403.pdf)
