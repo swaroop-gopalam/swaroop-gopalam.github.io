@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-TNet-IAB-FlowControl
 excerpt: 'This paper presents a new distributed slot reservation frame-work for joint resource allocation and flow control in mmWave IAB networks. We derive the Dynamic Slot Reservation (DSR) algorithm from a novel approach to solve a minimum clearing time linear program in a completely distributed manner.'
 date: 2023-12-01
-venue: ' IEEE/ACM Transactions on Networking'
+venue: 'IEEE/ACM Transactions on Networking'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10137766'
 citation: 'S. Gopalam, S. V. Hanly and P. Whiting,  &quot;Distributed Resource Allocation and Flow Control Algorithms for mmWave IAB Networks,&quot; in <i>IEEE/ACM Transactions on Networking</i>, vol. 31, no. 6, pp. 3175-3190, Dec. 2023.'
 ---

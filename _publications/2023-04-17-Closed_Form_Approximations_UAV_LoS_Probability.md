@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-Access-LoSProb-Imran
 excerpt: 'This paper presents a new approach to estimate the probability of line-of-sight (LoS) for unmanned aerial vehicle (UAV) communications.'
 date: 2023-04-17
-venue: ' IEEE Access'
+venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10103694'
 citation: I. Mohammed, S. Gopalam, I. B. Collings and S. V. Hanly,  &quot;Closed Form Approximations for UAV Line-of-Sight Probability in Urban Environments,&quot; in <i>IEEE Access</i>, vol. 11, pp. 40162-40174, 2023.'
 ---
