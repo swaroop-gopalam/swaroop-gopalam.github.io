@@ -1,7 +1,7 @@
 ---
 title: "Zak-OTFS Implementation via Time and Frequency Windowing"
 collection: publications
-permalink: /publication/2023-TNet-IAB-FlowControl
+permalink: /publication/2024-ZakOTFS-Implementation
 excerpt: 'This paper presents an efficient practical Zak-OTFS modulation implementation using time and frequency windowing methods. We present two general classes of delay-Doppler (DD) twisted convolution (TC) filters (Type-1 and Type-2), and show that they can be realized by time and frequency windowing functions. We then propose practical methods to generate time domain Zak-OTFS signals, for actual transmission, using the windowing functions. For Type-1, the signals are generated using an interpolation filter. For Type-2, they are generated using a form of precoded OFDM. We show that this allows a wide variety of pulse shapes to be implemented in practice for Zak-OTFS modulation. This was not previously possible. We also show that the Type-2 signals are more spectrally efficient than their Type-1 counterparts. Finally, we compare the channel predictability of the two implementations.'
 date: 2024-03-01
 venue: 'IEEE Transactions on Communications'
