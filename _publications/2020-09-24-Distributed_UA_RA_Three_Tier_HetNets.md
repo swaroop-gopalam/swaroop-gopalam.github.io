@@ -1,5 +1,5 @@
 ---
-title: "Distributed user association and resource allocation algorithms for three tier HetNets"
+title: "Distributed User Association and Resource Allocation Algorithms for Three Tier HetNets"
 collection: publications
 permalink: /publication/2020-TWC-3Tier-HetNet
 excerpt: 'In this article, we consider joint optimization of user association and resource allocation in three tier HetNets. We formulate the objective of minimizing the resources required to clear a given set of files, as a linear program. We show that the optimal user association is determined by a rate-biasing rule, where a bias value is associated with each BS. We show that each rate-bias value crucially only takes values from a finite set which we characterize. We present a complete analytical solution along with new structural results.'
