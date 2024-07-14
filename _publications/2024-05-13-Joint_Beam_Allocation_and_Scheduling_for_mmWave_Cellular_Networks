@@ -1,0 +1,17 @@
+---
+title: "Joint Beam Allocation and Scheduling for mmWave Cellular Networks"
+collection: publications
+permalink: /publication/2024-TIT-SandFilling
+excerpt: 'This paper provides capacity results for multi-user mm-wave hybrid-beamforming, and presents optimal joint beam allocation and user scheduling algorithms. We characterize the downlink capacity of a practical system with quantized analog beamforming code-books under the constraint that users cannot be scheduled at the same time if they are closer together than a beam width in angle. We show that the capacity region is determined by a small number of linear inequality constraints. We also present capacity-achieving scheduling algorithms that provide beam allocations guaranteeing that user rate requirements are met within each resource block. In particular, we propose “sand-filling” algorithms that are provably optimal and which have linear complexity.'
+date: 2024-05-13
+venue: 'IEEE Transactions on Information Theory'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10529272'
+citation: 'S. Gopalam, I. B. Collings, S. V. Hanly and H. Inaltekin,  &quot;Joint Beam Allocation and Scheduling for mmWave Cellular Networks,&quot; in <i>IEEE Transactions on Information Theory</i>, doi: 10.1109/TIT.2024.3399760.'
+---
+
+[Download preprint](https://swaroop-gopalam.github.io/files/TIT3399760.pdf)
+
+**Abstract:** This paper provides capacity results for multi-user mm-wave hybrid-beamforming, and presents optimal joint beam allocation and user scheduling algorithms. We characterize the downlink capacity of a practical system with quantized analog beamforming code-books under the constraint that users cannot be scheduled at the same time if they are closer together than a beam width in angle. We show that the capacity region is determined by a small number of linear inequality constraints. We also present capacity-achieving scheduling algorithms that provide beam allocations guaranteeing that user rate requirements are met within each resource block. In particular, we propose “sand-filling” algorithms that are provably optimal and which have linear complexity. Intuitively, our schemes can be viewed in terms of filling containers with coloured sand, in such a way that the colours at any given height do not conflict with the colours in the other containers at the same height, where the containers represent the RF chains ( i.e. the beamforming resources), and the coloured sand represents the users (and their rate requirements). We show a numerical example where the capacity of our scheme is 82% higher than a traditional resource partitioning scheme.
+
+
+<!-- Recommended citation: 'S. Gopalam, I. B. Collings, S. V. Hanly and H. Inaltekin,  &quot;Joint Beam Allocation and Scheduling for mmWave Cellular Networks,&quot; in <i>IEEE Transactions on Information Theory</i>, doi: 10.1109/TIT.2024.3399760.' -->
