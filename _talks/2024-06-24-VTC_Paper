@@ -1,0 +1,12 @@
+---
+title: "Minimizing Clearing Time in mmWave Networks with Overlapping Coverage"
+collection: talks
+type: "Conference Publication"
+permalink: /talks/VTC2024paper
+venue: "IEEE Vehicular Technology Conference (VTC) Spring 2024"
+date: 2024-06-24
+location: "Singapore."
+---
+
+**Abstract:** This paper considers millimeter-wave (mmWave) networks with hybrid beamforming communications, where base stations have a limited number of radio frequency (RF) chains. The base stations have overlapping coverage to overcome blockage issues in both downlink and uplink transmission. We propose a user association (UA) scheme that minimizes the time required for clearing data traffic of users in the coverage area. We formulate the UA problem as a time allocation problem, allocating time to user-base station links. We provide an innovative two-stage approach to solve this problem. Stage one optimizes a time fraction allocation for user-base station links. Then these time fractions are distributed across the RF chains at each base station using a fully distributed algorithm. 
+Stage two then schedules the user-base station links, provably solving the UA minimum clearing time problem. We then characterize the achievability of any set of target user rates. Numerical results show that our proposed UA scheme achieves significantly reduced clearing times in comparison to baseline schemes.
